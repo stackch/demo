@@ -1,3 +1,9 @@
+/*
+ * see https://www.simtech-ag.ch/blog/golang/gomap
+ * author: Daniel Schmutz
+ * copyright: Simtech AG (https://www.simtech-ag.ch)
+ */
+
 // Package collections definitions
 package collections
 
